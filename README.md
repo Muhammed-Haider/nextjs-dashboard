@@ -1,2 +1,2 @@
-# nextjs-dashboard
+# Nextjs-dashboard
 Nextjs learner project
